@@ -1,17 +1,23 @@
 # App-Folio
 
+> **folio** *(noun)* — a page of a book or manuscript, or a collection of written or printed works.
+>
+> Like its namesake, Folio collects and preserves what would otherwise be lost, keeping your clipboard history organized and readily accessible.
+
 Folio is a lightweight (macOS) clipboard manager. It maintains a persistent local history of copied text and images with a keyboard-first interface and minimal UI—the clipboard history macOS still doesn't ship with.
 
 ## Status
 
-**Work in progress.** Core functionality is still being built. This README will be updated with full usage instructions, screenshots, and setup steps once the app is stable.
+**Work-in-progress.** @ v.0.2.4
 
 ## What it does
 
-- Automatically records clipboard history
-- Stores copied text and images locally
-- Search and browse previous clipboard entries
-- Keyboard-first interface with minimal UI
+* Automatically records clipboard history
+* Stores copied text and images locally
+* Search and browse previous clipboard entries
+* Keyboard-first interface
+* Fast, lightweight native macOS interface
+* Minimal UI, minimal overhead
 
 ## Why?
 
@@ -21,8 +27,8 @@ Folio keeps a persistent history instead, making previously copied text and imag
 
 ## Installation // Usage
 
-_Coming soon._
+Coming soon.
 
 ## License
 
-GPLv3 — see [LICENSE](LICENSE) for details.
+GPLv3 — see `LICENSE` for details.
