@@ -8,7 +8,7 @@ Folio is a lightweight (macOS) clipboard manager. It maintains a persistent loca
 
 ## Status
 
-**Work-in-progress.** @ v.0.2.4
+🚧 **Work in progress.** Core functionality is still being built. This README will be updated with full usage instructions, screenshots, and setup steps once the app is stable.
 
 ## What it does
 
